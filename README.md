@@ -7,7 +7,7 @@
 
 - Bernardo Caprile
 - Eduardo Torreblanca
-- Nicolás Villegas
+- Nicolás Villegas (@nic0nyc)
 
 ### Sector económico: Construcción
 
