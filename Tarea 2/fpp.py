@@ -8,7 +8,6 @@ coeficienteTrabajoConstruccion = 0.8
 
 #test
 
-
 #Parametros del código
 ALPHA = 1 - coeficienteTrabajoEconomiaChilena   # capital share in economia chilena
 BETA = 1 - coeficienteTrabajoConstruccion   # capital share in construccion
