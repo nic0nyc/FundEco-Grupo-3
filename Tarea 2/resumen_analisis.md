@@ -18,7 +18,7 @@
 # Análisis
 En este documento se entregará un análisis detallado del sector escogido, donde se estudiarán los costos más importantes, la frontera de posibilidades de producción, entre otros.
 
-#Frontera de Posibilidades de Producción
+# Frontera de Posibilidades de Producción
 
 Para nuestra frontera de posibilidades de producción (FPP) hicimos un analisis macroeconomico basandonos en datos del Banco Central y del último informe "Macroeconomia y Construccion" (MaCh 60, Marzo 2022) de la Camara Chilena de la Construcción (CChC). Por un lado, para poder hacer el calculo de la función de producción de la economia chilena ocupamos el valor de la participación del trabajo del informe [Inserte fuente confiable] el cual es 0.5. Por el otro lado, para calcular la participación del trabajo en la construcción utilizamos la forma entregada por el Banco Central (Informe Collab) "dividir los salarios totales pagados a los trabajadores por el valor agregado". Esta información la obtuvimos del informe MaCh. Siendo el número de trabajadores 802.000, con un salario promedio de $573.000 y un valor agregado del sector de $574.110.000.000
 
