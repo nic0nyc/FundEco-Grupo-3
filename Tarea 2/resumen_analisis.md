@@ -36,7 +36,22 @@ En el sector de la construcción, desde el comienzo de la pandemia la escasez de
 ![enter image description here](https://i.ibb.co/BzTMvyj/grafico-3-tarea-2.jpg)
 
 
-# Estimación elasticidad de la oferta y demanda
-[Completar]
-# Equilibrio de mercado
-[Completar]
+# Equilibrio de mercado y Estimación elasticidad de la oferta y demanda
+
+Las Ecuaciones de las curvas son:
+
+Qo = 0.101p - 192.36 
+
+Qd = 533.3 - 0.106p
+
+En base a estas ecuaciones podemos establecer el equilibrio de mercado en el punto (161.74 , 3505.31) y además se puede establecer una elasticidad de 0.24, esto implicaría que estamos tratando con un bien más inelástico.
+
+Se adjuntan fotos de los cálculos:
+
+![](https://i.imgur.com/TBpINVT.png)
+
+### Gráfico:
+
+![](https://i.imgur.com/8yRweIT.png)
+
+Los datos necesarios para poder graficarlos y obtener las curvas fueron recabados desde mercado público, más específicamente se analizaron las licitaciones de construcción de tipo “LQ” las cuales se encuentran entre $2.000 y $5.000 UTM (nuestras ecuaciones fueron calculadas con este tipo de divisa) para así poder ver de manera más especifica el comportamiento del mercado en variaciones de precios más específicas.
