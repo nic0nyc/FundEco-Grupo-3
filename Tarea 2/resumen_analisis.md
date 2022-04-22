@@ -33,6 +33,8 @@ En el sector de la construcción, desde el comienzo de la pandemia la escasez de
 
 ![enter image description here](https://cchc.cl/uploads/indicador/imagenes/ICEWeb.PNG)
 ![enter image description here](https://cchc.cl/uploads/indicador/imagenes/IndicePreciosConstruccion.png)
+![enter image description here](https://i.ibb.co/BzTMvyj/grafico-3-tarea-2.jpg)
+
 
 # Estimación elasticidad de la oferta y demanda
 [Completar]
