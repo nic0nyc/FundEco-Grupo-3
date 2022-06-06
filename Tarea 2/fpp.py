@@ -3,14 +3,14 @@ import numpy as np
 
 # Parametros para el análisis
 
-coeficienteTrabajoEconomiaChilena = 0.5
-coeficienteTrabajoConstruccion = 0.8
+coeficienteTrabajoEconomiaChilena = 0.2
+coeficienteTrabajoConstruccion = 0.4
 
 #Parametros del código
 ALPHA = 1 - coeficienteTrabajoEconomiaChilena   # capital share in economia chilena
 BETA = 1 - coeficienteTrabajoConstruccion   # capital share in construccion
-KBAR = 100  # Total capital supply
-LBAR = 100  # Total labor supply
+KBAR = 34  # Total capital supply
+LBAR = 18  # Total labor supply
 
 """Función Producción Economía Chilena"""
 def FuncionProduccionEconomiaChilena(capital, labour, alpha):
@@ -47,8 +47,8 @@ def ppf(LA,Kbar=KBAR, Lbar=LBAR,alpha=ALPHA,beta=BETA):
     ax.set_xlim(0, Lbar)
     ax.set_ylim(0, Kbar)
     ax.plot(Qa, Qm, 'k-')
-    ax.set_xlabel(r'$Q_E$', fontsize=18)
-    ax.set_ylabel(r'$Q_C$', fontsize=18)
+    ax.set_xlabel(r'$Q_S$', fontsize=18)
+    ax.set_ylabel(r'$Q_E$', fontsize=18)
     plt.show()
 
 fig, ax = plt.subplots(figsize=(7,6))
